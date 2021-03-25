@@ -9,24 +9,24 @@ excerpt: >
   <small>from the <a href="https://crystallography.org.uk">British Crystallographic Association</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
+    alt: "find out more"
     title: "Learn"
-    excerpt: "Learn about crystallography"
-    url: "/docs/configuration/"
+    excerpt: "Learn more about crystallography: history, techniques and applications"
+    url: "/learn-crystallography/"
     btn_class: "btn--primary"
     btn_label: "Learn"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
+    alt: "for educators"
     title: "Outreach resources"
-    excerpt: "Teaching and outreach resources for crystallography"
-    url: "/docs/layouts/"
+    excerpt: "A collection of teaching and outreach resources for crystallography"
+    url: "/teach/"
     btn_class: "btn--primary"
     btn_label: "Teach"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
+    alt: "media"
     title: "News blog"
-    excerpt: "Articles related to crystallography"
-    url: "/docs/license/"
+    excerpt: "A collection of news articles and other media featuring crystallography"
+    url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "News"      
 ---
