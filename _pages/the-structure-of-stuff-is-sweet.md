@@ -1,24 +1,8 @@
 ---
-layout: page
 title: The Structure of Stuff is Sweet!
 date: 2013-11-11 16:37:58.000000000 +00:00
-type: page
-parent_id: '7'
-published: true
-password: ''
-status: publish
 categories: []
 tags: []
-meta:
-  _edit_last: '3'
-  post_slider_check_key: '0'
-  tc-thumb-fld: a:2:{s:9:"_thumb_id";i:429;s:11:"_thumb_type";s:10:"attachment";}
-author:
-  login: Lynne Thomas
-  email: L.H.Thomas@bath.ac.uk
-  display_name: Lynne Thomas
-  first_name: Lynne
-  last_name: Thomas
 permalink: "/learn-crystallography/the-structure-of-stuff-is-sweet/"
 ---
 <p>Chocolate is a treat that many of us enjoy on a regular basis.  It is best consumed as a solid and that means crystals!  Did you know that it is actually quite a complicated process to make this in a way in which we enjoy?  Can you imagine chocolate that didn't melt in your mouth in that creamy smooth way?  During the chocolate making process, chocolatiers use a process called tempering.  This is a heating and cooling process involving stirring and if they don't get it right, the chocolate isn't good!  Likewise, if you leave chocolate for a long time or it melts and resolidifies, often you see a white coating on the surface and when you taste it, it isn't quite right, the texture is gritty and horrible.  Its called blooming.  This is all because of the way that cocoa butter molecules arrange themselves in the solid crystal.  There are, in fact, six ways in which cocoa butter molecules can arrange themselves into a solid; same molecule, no Chemistry, just the crystal!  This is called polymorphism.  Only one of these arrangements gives good chocolate that melts in your mouth.  Unfortunately, there is another way which the cocoa butter molecules find more favourable to exist in.  This means that if you give the molecules time (like in old chocolate) or energy (by melting it), the molecules can rearrange themselves and form a crystal which melts at a higher temperature and so it no longer melts in your mouth causing the gritty sensation.</p>
