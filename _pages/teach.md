@@ -1,14 +1,10 @@
 ---
-layout: page
 title: Teaching Resources
-date: 2017-09-18 15:58:16
-type: page
-parent_id: '0'
-published: true
-password: ''
-status: publish
+categories: []
+tags: []
 permalink: "/teach/"
 ---
+
 
 <p>The BCA supports outreach and education in crystallography. We maintain a database of downloadable activities and materials, a lending library of physical equipment and a calendar of events. All of these can be accessed from the links below.</p>
 
