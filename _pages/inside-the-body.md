@@ -1,11 +1,6 @@
 ---
-layout: page
 title: Inside the Body
 date: 2013-11-21 19:22:29.000000000 +00:00
-type: page
-parent_id: '7'
-published: true
-password: ''
 status: publish
 categories: []
 tags: []
