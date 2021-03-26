@@ -19,7 +19,7 @@ permalink: "/learn-crystallography/what-is-a-crystal/"
 <p>For example, in salt, which is sodium chloride, the crystals contain only sodium and chloride ions.  In the picture below you can see that each sodium ion is surrounded by chloride ions only, and each chloride is surrounded by six sodium ions, maximising the attractions.</p>
 
 <div markdown="1">
-![Crystals of salt (left) and the arrangement of the sodium and chloride ions within these crystals (right)](/assets/SaltCrystalandStructure.jpg) 
+![Crystals of salt (left) and the arrangement of the sodium and chloride ions within these crystals (right)](/assets/images/SaltCrystalandStructure.jpg) 
 Crystals of salt (left) and the arrangement of the sodium and chloride ions within these crystals (right)
 </div>
 
@@ -28,7 +28,7 @@ Crystals of salt (left) and the arrangement of the sodium and chloride ions with
 <p>Inherently because the atoms or molecules within a crystal pack periodically, this gives rise to symmetry of these molecules within the system, producing seven different types of crystal system, varying in their lengths and angles.  These seven crystal systems can then be split further into 14 Bravais lattices, which describe the different ways in which the lattice points can be distributed within a crystal system.</p>
 
 <div markdown="1">
-![The 14 Bravais Lattices](/assets/Bravais.jpg) 
+![The 14 Bravais Lattices](/assets/images/Bravais.jpg) 
 The 14 Bravais Lattices
 </div>
 
